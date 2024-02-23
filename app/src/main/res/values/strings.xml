@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Clicker</string>
+    <string name="btn_text_1">click me</string>
+    <string name="btn_text_2">вычетание</string>
+    <string name="btn_text_3">сброс</string>
+    <string name="btn_text_4">счет</string>
+</resources>
